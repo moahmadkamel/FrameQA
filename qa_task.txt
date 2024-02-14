@@ -1,0 +1,39 @@
+
+
+work with the framework, select any site for testing. On this site, select any three pages,
+for your tests, and for each page write at least any 5 test cases. After writing test cases,
+implement them as code in your framework.
+
+In the framework, create testng.xml in which all your created tests will be run.
+
+Additionally, the use of logging is encouraged, as well as connecting one of
+frameworks for creating reports (for example Allure).
+
+As a result, you should have a ready-made frame in which you can run all your tests. Plus
+At least 15 test cases must still be created. (test cases can be written in Excel, Word, or
+one of the TMS, for example Test Rail).
+
+Prepare a presentation to demonstrate and present your project.
+
+P.S. Good luck with writing your final project. And don't forget about theory. This is our whole theory for manual testing.
+Java theory. And also theory on automation. :)
+
+///////////////////
+
+Для работы с фреймворком выберите любой сайт для тестирования. На этом сайте выберите три любых страницы,
+для ваших тестов, и для каждой страницы напишите как минимум любых 5 тест кейсов. После написания тест кейсов,
+реализовать их в виде кода в вашем фрймворке.   
+
+В фрейморке создать testng.xml в котором будут прогоняться все ваши созданные тесты.
+
+Дополнительно приветствуется использование логирования, а также подключения какого-нибудь из 
+фреймворков для создания отчета (например Allure).
+
+По итогу у Вас должен быть готовый фрейм, в котором можно запустить все ваши тесты. Плюс
+еще должно быть создано как минимум 15 тест кейсов. (тест кейсы можно писать в Excel, Word, либо
+одной из TMS, например Test Rail).
+
+Подготовить презентацию для демонстрации и защите вашего проекта.
+
+P.S. удачи с написанием финального проекта. И не забываем про теорию. У нас это вся теория по ручному тестированию.
+Теория по джаве. А также теория по автоматизации. :)

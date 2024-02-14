@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTests">
+        <classes>
+            <class name="com.example.LoginPageTest" />
+            <class name="com.example.SearchPageTest" />
+            <class name="com.example.CreateAccountPageTest" />
+            <class name="com.example.IdentityPageTest" />
+        </classes>
+    </test>
+</suite>
