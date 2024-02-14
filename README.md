@@ -8,7 +8,7 @@ The framework includes a testng.xml file to seamlessly execute all created tests
 
 The end result is a fully functional testing framework capable of running at least 15 test cases. Test cases were documented using various tools such as TestRail. A presentation was prepared to showcase the project, covering both the practical implementation and theoretical aspects, including manual testing, Java theory, and automation principles.
 
-### Author
+## Author
 This project was created by DANit student as part of the completion of the 
 
 "Quality Assurance Engineer (QA Manual + QA Automation)" course [Mohamed](https://github.com/moahmadkamel).
