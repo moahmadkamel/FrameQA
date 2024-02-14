@@ -1,6 +1,6 @@
 
 
-work with the framework, select any site for testing. On this site, select any three pages,
+work with a framework, select any site for testing. On this site, select any three pages,
 for your tests, and for each page write at least any 5 test cases. After writing test cases,
 implement them as code in your framework.
 
