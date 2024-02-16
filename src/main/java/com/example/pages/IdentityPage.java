@@ -3,7 +3,7 @@ package com.example.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-
+//import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 
 public class IdentityPage extends BasePage {
@@ -176,6 +176,9 @@ public class IdentityPage extends BasePage {
         logger.info("select year" + Locators.yearsSelect);
         //waiters.waitForVisabilityOfWebElement(Locators.yearsSelect);
         //waiters.waitForVisabilityOfWebElementAndReturnElement(Locators.yearsSelectOption);
+
+        //wait.until(ExpectedConditions.elementToBeSelected(By.xpath("//select[@id='days']/option[@value='10']")));
+        //Thread.sleep(3000);
 
     }
     /////////////////////////
