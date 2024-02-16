@@ -165,17 +165,14 @@ public class IdentityPage extends BasePage {
         days.selectByValue("10");
         logger.info("select day" + Locators.daysSelect);
         //waiters.waitForVisabilityOfWebElement(Locators.daysSelect);
-        //waiters.waitForVisabilityOfWebElementAndReturnElement(Locators.daysSelectOption);
         Select months = new Select(driver.findElement(Locators.monthsSelect));
         months.selectByValue("9");
         logger.info("select month" + Locators.monthsSelect);
         //waiters.waitForVisabilityOfWebElement(Locators.monthsSelect);
-        //waiters.waitForVisabilityOfWebElementAndReturnElement(Locators.monthsSelectOption);
         Select years = new Select(driver.findElement(Locators.yearsSelect));
         years.selectByValue("1992");
         logger.info("select year" + Locators.yearsSelect);
         //waiters.waitForVisabilityOfWebElement(Locators.yearsSelect);
-        //waiters.waitForVisabilityOfWebElementAndReturnElement(Locators.yearsSelectOption);
 
         //wait.until(ExpectedConditions.elementToBeSelected(By.xpath("//select[@id='days']/option[@value='10']")));
         //Thread.sleep(3000);
