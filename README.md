@@ -27,6 +27,8 @@ This project was created by DANit student as part of the completion of the
 
 ## Documentation:
 
-[Test cases](https://docs.google.com/spreadsheets/d/132I3dGXc53MCa5XGLrd7wGQNVnKYVhBfSMkwgskPK8k/edit?usp=sharing)
+[Test Cases](https://docs.google.com/spreadsheets/d/132I3dGXc53MCa5XGLrd7wGQNVnKYVhBfSMkwgskPK8k/edit?usp=sharing)
+
+[Test Report](https://docs.google.com/presentation/d/1sHdjVFSzOUngB8WYK8GWo9hIu2439QrnB6X-sTiVWA8/edit?usp=sharing)
 
 
