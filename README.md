@@ -2,7 +2,7 @@
 
  
 ## Description
-This project involved building a robust automated testing framework. A website was selected for testing, and four pages were chosen for test scenarios. For each page, at least five test cases were written and then implemented in code using the framework.
+This project involved building a robust automated testing framework. A website was selected for testing, and three pages were chosen for test scenarios. For each page, at least five test cases were written and then implemented in code using the framework.
 
 The framework includes a testng.xml file to seamlessly execute all created tests. Logging was incorporated for improved traceability, and Allure framework integration provides comprehensive test reports.
 
@@ -24,3 +24,9 @@ This project was created by DANit student as part of the completion of the
 - TestNG Framework
 - XML
 - Allure Report
+
+## Documentation:
+
+[Test cases](https://docs.google.com/spreadsheets/d/132I3dGXc53MCa5XGLrd7wGQNVnKYVhBfSMkwgskPK8k/edit?usp=sharing)
+
+
